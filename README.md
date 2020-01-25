@@ -25,7 +25,7 @@
 
    localhost:3000/restaurants/search?q=sushi&lat=60.17045&lon=24.93147
 
-7. In order to exit the application, press CTRL+C from the terminal.
+7. In order to exit the application, press CTRL+C from the keyboard in the terminal where the application is running.
 
 ---
 
