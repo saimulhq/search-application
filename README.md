@@ -25,6 +25,8 @@
 
    localhost:3000/restaurants/search?q=sushi&lat=60.17045&lon=24.93147
 
+7. In order to exit the application, press CTRL+C from the terminal.
+
 ---
 
 P.S. The bonus task for validating blurhash has been implemented, in order to check it, please uncomment the lines 83 and 107 from "src/main/java/fi/restaurants/search/searchapplication/api/SearchApplicationController.java" and save. Then repeat steps 4 and 5 in order to run the project.
